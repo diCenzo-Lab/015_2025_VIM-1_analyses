@@ -17,3 +17,7 @@ This folder contains the overall workflow (workflow.sh), to repeat the genomic a
 ## 04_Porin_analysis
 
 This folder contains the overall workflow (workflow.sh) and input files, to repeat the analysis shown in Figure S2 of the manuscript.
+
+## 05_Annotated_genomes
+
+This folder contains the PGAP output for the six clinical isolates, as the genomes were still undergoing processing by NCBI at the time this manuscript was uploaded to bioRxiv and thus were not yet publicly available via NCBI.
