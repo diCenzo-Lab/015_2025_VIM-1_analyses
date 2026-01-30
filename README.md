@@ -1,5 +1,7 @@
 # Variations in carbapenem resistance associated with the VIM-1 metallo-B-lactamase across the order *Enterobacterales*
 
+Rondinelli M, Kaur S, Ledwell OA, Wong H, Sheth PM, dicenzo GC. 2025. **Variations in carbapenem resistance associated with the VIM-1 metallo-β-lactamase across the *Enterobacterales***. *Microbiology*. 172(1): 001646.
+
 This repository contains the scripts and input files required to repeat the analyses reported in the associated article.
 
 ## 01_Genome_assembly_annotation
